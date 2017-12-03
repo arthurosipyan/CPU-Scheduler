@@ -21,8 +21,11 @@ This process is how the cpu is actively busy and the Round Robin makes sure of t
 
 
 CPU Utilization = (burst time - (contextTime * 0.1)) / processes
+
 Throughput = processes / timer
+
 Average Waiting Time = sum of all wait / processes
+
 Average Turnaround Time = sun of all turn / processes
 
 These statistics are then printed to the console, where the program is officially done with its CPU Scheduling.
