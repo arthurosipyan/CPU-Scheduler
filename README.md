@@ -1,13 +1,10 @@
 # CPU-Scheduler and Round Robin:
 
 Instructions:
-1.	Open “src”.
-2.	Open “cpu_scheduler” (this is the resource package).
-3.	You should see 3 java classes
-4.	Open the 3 classes (and include the csv file inside the zip file) on your preferred java IDE.
-5.	Run “Driver.java”
-6.	The program will ask the user to enter the filename and then the desired Time Quantum.
-7.	After entering the information correctly, the program should run and return the CPU Utilization, Throughput, Average Waiting Time, and Average Turnaround Time.
+1.  Open the 3 classes and include the csv file on your preferred java IDE.
+2.	Run “Driver.java”
+3.	The program will ask the user to enter the filename and then the desired Time Quantum.
+4.	After entering the information correctly, the program should run and return the CPU Utilization, Throughput, Average Waiting Time, and Average Turnaround Time.
 
 # Project and Program Explained:
 
