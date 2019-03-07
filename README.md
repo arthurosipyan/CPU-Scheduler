@@ -1,4 +1,4 @@
-# ![](https://raw.githubusercontent.com/arthurosipyan/CPU-Scheduler/master/logo/CPUSchedular.PNG "CPU Scheduler")
+# ![](https://raw.githubusercontent.com/arthurosipyan/CPU-Scheduler/master/logo/CPUSchedulerLogo.PNG "CPU Scheduler")
 
 Instructions:
 1.  Open the 3 classes and include the csv file on your preferred java IDE.
